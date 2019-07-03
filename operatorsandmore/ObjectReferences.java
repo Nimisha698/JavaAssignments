@@ -2,7 +2,6 @@ package operatorsandmore;
 
 public class ObjectReferences
 {
-
     ObjectReferences(String string)
     {
         System.out.println(string);
